@@ -1,0 +1,9 @@
+name: trophoria_lints
+description: Linting rules used for trophoria
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter_lints: ^2.0.1

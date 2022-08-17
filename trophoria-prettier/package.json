@@ -1,0 +1,24 @@
+{
+  "name": "@trophoria/prettier-config",
+  "version": "1.0.0",
+  "description": "Trophoria standard prettier config",
+  "main": "index.json",
+  "repository": "https://github.com/trophoria/trophoria-lints.git",
+  "bugs": {
+    "url": "https://github.com/trophoria/trophoria-lints/issues"
+  },
+  "homepage": "https://github.com/trophoria/trophoria-lints#readme",
+  "keywords": [
+    "prettier",
+    "infotition",
+    "styleguide"
+  ],
+  "files": [
+    "./index.json"
+  ],
+  "author": "Trophoria",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
