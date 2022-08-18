@@ -1,4 +1,5 @@
 'use strict';
+
 const config = {
   settings: {
     'import/resolver': { typescript: {} },
