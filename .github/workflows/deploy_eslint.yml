@@ -1,4 +1,4 @@
-name: ESLint Prettier
+name: Deploy ESLint
 
 on:
   push:
