@@ -1,6 +1,11 @@
-**/.vscode/
+# ---------- editor  ---------
+.vscode/
+
+# ------ dependencies  -------
 **/node_modules/
 **/pubspec.lock
 **/.packages
 **/.dart_tool/
+
+# ----------- msc  -----------
 **/.DS_Store
