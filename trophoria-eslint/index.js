@@ -25,10 +25,6 @@ const config = {
       {
         selector: 'interface',
         format: ['PascalCase'],
-        custom: {
-          regex: '^I[A-Z]',
-          match: true,
-        },
       },
       {
         selector: 'variable',
