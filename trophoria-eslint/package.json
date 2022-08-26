@@ -1,6 +1,6 @@
 {
   "name": "@trophoria/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trophoria standard eslint config",
   "main": "index.js",
   "repository": "https://github.com/trophoria/trophoria-lints.git",
